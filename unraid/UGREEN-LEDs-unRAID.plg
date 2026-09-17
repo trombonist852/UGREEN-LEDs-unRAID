@@ -73,8 +73,8 @@ rm -f $(ls &plugin;/&name;-*.txz 2&gt;/dev/null | grep -v '&version;')
 </FILE>
 
 <!-- Userspace: control script and the guarded loader. Kernel independent. -->
-<FILE Name="&plugin;/&name;-&version;.txz" Run="upgradepkg --install-new --reinstall">
-<URL>&gitURL;/packages/&name;-&version;.txz</URL>
+<FILE Name="UGREEN-LEDs-unRAID-2026.09.16.txz" Run="upgradepkg --install-new --reinstall">
+<URL>https://github.com/trombonist852/UGREEN-LEDs-unRAID/releases/download/6.18.47-Unraid/UGREEN-LEDs-unRAID-2026.09.16.txz</URL>
 <MD5>&md5;</MD5>
 </FILE>
 
