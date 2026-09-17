@@ -6,7 +6,7 @@
   <!ENTITY version     "2026.09.16-6.18.47-unRAID">
   <!ENTITY md5         "ab9bc251cdcc1fe897f0db1f7375d36e">
   <!ENTITY gitURL      "https://github.com/&author;/&repo;/raw/master/unraid">
-  <!ENTITY relURL      "https://github.com/trombonist852/UGREEN-LEDs-unRAID/releases/download">
+  <!ENTITY relURL      "https://github.com/&author;/&repo;/releases/download">
   <!ENTITY apiURL      "https://api.github.com/repos/&author;/&repo;/releases/tags">
   <!ENTITY pluginURL   "&gitURL;/&name;.plg">
   <!ENTITY plugin      "/boot/config/plugins/&name;">
