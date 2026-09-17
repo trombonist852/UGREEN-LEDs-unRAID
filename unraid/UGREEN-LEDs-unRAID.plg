@@ -1,10 +1,10 @@
 <?xml version='1.0' standalone='yes'?>
 <!DOCTYPE PLUGIN [
   <!ENTITY name        "UGREEN-LEDs-unRAID">
-  <!ENTITY author      "guyp2k">
+  <!ENTITY author      "trombonist852">
   <!ENTITY repo        "UGREEN-LEDs-unRAID">
-  <!ENTITY version     "2026.09.05f">
-  <!ENTITY md5         "dbac11b6aebe4e4bdf4e45a761b14e35">
+  <!ENTITY version     "2026.09.16-6.18.47">
+  <!ENTITY md5         "ab9bc251cdcc1fe897f0db1f7375d36e">
   <!ENTITY gitURL      "https://github.com/&author;/&repo;/raw/master/unraid">
   <!ENTITY relURL      "https://github.com/&author;/&repo;/releases/download">
   <!ENTITY apiURL      "https://api.github.com/repos/&author;/&repo;/releases/tags">
