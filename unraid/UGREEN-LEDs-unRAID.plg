@@ -3,7 +3,7 @@
   <!ENTITY name        "UGREEN-LEDs-unRAID">
   <!ENTITY author      "trombonist852">
   <!ENTITY repo        "UGREEN-LEDs-unRAID">
-  <!ENTITY version     "2026.09.16-6.18.47-unRAID">
+  <!ENTITY version     "2026.09.16">
   <!ENTITY md5         "ab9bc251cdcc1fe897f0db1f7375d36e">
   <!ENTITY gitURL      "https://github.com/&author;/&repo;/raw/master/unraid">
   <!ENTITY relURL      "https://github.com/&author;/&repo;/releases/download">
